@@ -17,17 +17,17 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"github.com","root":"/landu/","scheme":"Muse","version":"7.7.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":true},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+    var CONFIG = {"hostname":"github.com","root":"/landu/","scheme":"Muse","version":"7.7.1","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":true},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="18.1 建立项目18.1.1 制定规范完整的规范详细说明了项目的目标，阐述了项目的功能，并讨论了项目的外观和用户界面。 与任何良好的项目规划和商业计划书一样，规范应突出重点，帮助避免项目偏离轨道。   18.1.2 建立虚拟环境‘’’ python -m venv ll_env   ‘’’ 18.1.3 激活虚拟环境‘’’ll_env\Scripts\activate‘’’ 18.1.4 安装D">
+  <meta name="description" content="18.1 建立项目18.1.1 制定规范完整的规范详细说明了项目的目标，阐述了项目的功能，并讨论了项目的外观和用户界面。 与任何良好的项目规划和商业计划书一样，规范应突出重点，帮助避免项目偏离轨道。   18.1.2 建立虚拟环境‘’’ python -m venv ll_env">
 <meta property="og:type" content="article">
 <meta property="og:title" content="django入门">
 <meta property="og:url" content="https://github.com/WangZiChen1996/landu.git/2020/02/27/django%E5%85%A5%E9%97%A8/index.html">
 <meta property="og:site_name" content="风轩">
-<meta property="og:description" content="18.1 建立项目18.1.1 制定规范完整的规范详细说明了项目的目标，阐述了项目的功能，并讨论了项目的外观和用户界面。 与任何良好的项目规划和商业计划书一样，规范应突出重点，帮助避免项目偏离轨道。   18.1.2 建立虚拟环境‘’’ python -m venv ll_env   ‘’’ 18.1.3 激活虚拟环境‘’’ll_env\Scripts\activate‘’’ 18.1.4 安装D">
+<meta property="og:description" content="18.1 建立项目18.1.1 制定规范完整的规范详细说明了项目的目标，阐述了项目的功能，并讨论了项目的外观和用户界面。 与任何良好的项目规划和商业计划书一样，规范应突出重点，帮助避免项目偏离轨道。   18.1.2 建立虚拟环境‘’’ python -m venv ll_env">
 <meta property="article:published_time" content="2020-02-27T09:21:16.000Z">
-<meta property="article:modified_time" content="2020-02-28T05:20:05.292Z">
+<meta property="article:modified_time" content="2020-02-28T14:15:07.463Z">
 <meta property="article:author" content="王子臣">
 <meta property="article:tag" content="博客">
 <meta property="article:tag" content="Django">
@@ -217,7 +217,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-02-28 13:20:05" itemprop="dateModified" datetime="2020-02-28T13:20:05+08:00">2020-02-28</time>
+                <time title="修改时间：2020-02-28 22:15:07" itemprop="dateModified" datetime="2020-02-28T22:15:07+08:00">2020-02-28</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -249,6 +249,8 @@
       
         <h2 id="18-1-建立项目"><a href="#18-1-建立项目" class="headerlink" title="18.1 建立项目"></a>18.1 建立项目</h2><h3 id="18-1-1-制定规范"><a href="#18-1-1-制定规范" class="headerlink" title="18.1.1 制定规范"></a>18.1.1 制定规范</h3><p>完整的规范详细说明了项目的目标，阐述了项目的功能，并讨论了项目的外观和用户界面。 与任何良好的项目规划和商业计划书一样，规范应突出重点，帮助避免项目偏离轨道。  </p>
 <h3 id="18-1-2-建立虚拟环境"><a href="#18-1-2-建立虚拟环境" class="headerlink" title="18.1.2 建立虚拟环境"></a>18.1.2 建立虚拟环境</h3><p>‘’’<br> python -m venv ll_env  </p>
+<a id="more"></a>
+
 <p>‘’’</p>
 <h3 id="18-1-3-激活虚拟环境"><a href="#18-1-3-激活虚拟环境" class="headerlink" title="18.1.3 激活虚拟环境"></a>18.1.3 激活虚拟环境</h3><p>‘’’<br>ll_env\Scripts\activate<br>‘’’</p>
 <h3 id="18-1-4-安装Django"><a href="#18-1-4-安装Django" class="headerlink" title="18.1.4 安装Django"></a>18.1.4 安装Django</h3><p>‘’’<br>pip install Django<br>‘’’</p>
@@ -382,7 +384,8 @@
       </div>
   </nav>
 </div>
-  <div class="sidebar-button motion-element"><i class="fa fa-comment"></i>
+  <div class="sidebar-button motion-element">
+    <a onclick="Chatra('openChat', true)"><i class="fa fa-comment"></i>
     Chat
   </a>
   </div>
@@ -391,7 +394,7 @@
         <a href="https://github.com/WangZiChen" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;WangZiChen"><i class="fa fa-fw fa-github"></i>GitHub</a>
       </span>
       <span class="links-of-author-item">
-        <a href="mailto:991802672@qq.com" title="E-Mail → mailto:991802672@qq.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+        <span class="exturl" data-url="bWFpbHRvOjk5MTgwMjY3MkBxcS5jb20=" title="E-Mail → mailto:991802672@qq.com"><i class="fa fa-fw fa-envelope"></i>E-Mail</span>
       </span>
   </div>
 
@@ -403,7 +406,7 @@
     </div>
     <ul class="links-of-blogroll-list">
         <li class="links-of-blogroll-item">
-          <a href="https://fengxuan.herokuapp.com/" title="https:&#x2F;&#x2F;fengxuan.herokuapp.com&#x2F;" rel="noopener" target="_blank">风轩日记</a>
+          <span class="exturl" data-url="aHR0cHM6Ly9mZW5neHVhbi5oZXJva3VhcHAuY29tLw==" title="https:&#x2F;&#x2F;fengxuan.herokuapp.com&#x2F;">风轩日记</span>
         </li>
     </ul>
   </div>
@@ -499,8 +502,21 @@
 
 
 
+  <script>
+    (function(d, w, c) {
+      w.ChatraID = 'jBymq2G9q5pehkQQS';
+      var s = d.createElement('script');
+      w[c] = w[c] || function() {
+        (w[c].q = w[c].q || []).push(arguments);
+      };
+      s.async = true;
+      s.src = 'https://call.chatra.io/chatra.js';
+      if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+  </script>
 
 
+  <script src="//code.tidio.co/.js"></script>
 
 
 
