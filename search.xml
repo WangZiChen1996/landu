@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>shiyan</title>
-      <link href="/landu/2020/03/03/shiyan/"/>
-      <url>/landu/2020/03/03/shiyan/</url>
+      <title>bala</title>
+      <link href="/landu/2020/03/04/bala/"/>
+      <url>/landu/2020/03/04/bala/</url>
       
-        <content type="html"><![CDATA[<p>balabala</p>]]></content>
+        <content type="html"><![CDATA[<p>cthdcu</p>]]></content>
       
       
       
@@ -144,7 +144,7 @@
       <link href="/landu/2020/02/27/set-blog/"/>
       <url>/landu/2020/02/27/set-blog/</url>
       
-        <content type="html"><![CDATA[<ol><li><p>管理员模式进入cmd<br>  hexo init blog<br>  cd blog<br>  git clone <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2lpc3NuYW4vaGV4by10aGVtZS1uZXh0" title="https://github.com/iissnan/hexo-theme-next">https://github.com/iissnan/hexo-theme-next<i class="fa fa-external-link"></i></span> themes/next<br>  查看：<br>  hexo clean<br>  hexo g<br>  hexo s</p><a id="more"></a></li><li><p>新建github仓库</p></li><li><p>修改配置</p><ol><li><p>基础修改<br>menu:<br> home: /<br> archives: /archives<br> #about: /about<br> #categories: /categories<br> tags: /tags<br> #commonweal: /404.html</p></li><li><p>增加头像<br>将头像放置主题目录下的 source/uploads/ （新建 uploads 目录若不存在）<br>配置为：avatar: /uploads/avatar.png<br>或者 放置在 source/images/ 目录下<br>配置为：avatar: /images/avatar.png </p></li><li><p>增加背景动画<br> canvas_nest<br>canvas_nest: true //开启动画<br>canvas_nest: false //关闭动画</p><p> three_waves<br>three_waves: true //开启动画<br>three_waves: false //关闭动画</p><ol start="4"><li><p>增加评论系统</p></li><li><p>首页不显示全文</p><p>auto_excerpt:  </p><p>​    enable: false （改为true）  </p><p>​    length: 150</p></li></ol></li></ol></li><li><p>安装 hexo-deployer-git<br>npm install hexo-deployer-git –save<br>配置：<br>deploy:<br>type: git<br>repo: <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL1dhbmdaaUNoZW4xOTk2L2xhbmR1LmdpdA==" title="https://github.com/WangZiChen1996/landu.git">https://github.com/WangZiChen1996/landu.git<i class="fa fa-external-link"></i></span><br>branch: master<br>推送：hexo d</p></li></ol>]]></content>
+        <content type="html"><![CDATA[<ol><li><p>管理员模式进入cmd<br>  hexo init blog<br>  cd blog<br>  git clone <a href="https://github.com/iissnan/hexo-theme-next">https://github.com/iissnan/hexo-theme-next</a> themes/next<br>  查看：<br>  hexo clean<br>  hexo g<br>  hexo s</p><a id="more"></a></li><li><p>新建github仓库</p></li><li><p>修改配置</p><ol><li><p>基础修改<br>menu:<br> home: /<br> archives: /archives<br> #about: /about<br> #categories: /categories<br> tags: /tags<br> #commonweal: /404.html</p></li><li><p>增加头像<br>将头像放置主题目录下的 source/uploads/ （新建 uploads 目录若不存在）<br>配置为：avatar: /uploads/avatar.png<br>或者 放置在 source/images/ 目录下<br>配置为：avatar: /images/avatar.png </p></li><li><p>增加背景动画<br> canvas_nest<br>canvas_nest: true //开启动画<br>canvas_nest: false //关闭动画</p><p> three_waves<br>three_waves: true //开启动画<br>three_waves: false //关闭动画</p><ol start="4"><li><p>增加评论系统</p></li><li><p>首页不显示全文</p><p>auto_excerpt:  </p><p>​    enable: false （改为true）  </p><p>​    length: 150</p></li></ol></li></ol></li><li><p>安装 hexo-deployer-git<br>npm install hexo-deployer-git –save<br>配置：<br>deploy:<br>type: git<br>repo: <a href="https://github.com/WangZiChen1996/landu.git">https://github.com/WangZiChen1996/landu.git</a><br>branch: master<br>推送：hexo d</p></li></ol>]]></content>
       
       
       <categories>
