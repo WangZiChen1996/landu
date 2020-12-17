@@ -183,6 +183,85 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
+    <link itemprop="mainEntityOfPage" href="https://github.com/WangZiChen1996/landu.git/2020/12/17/python1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/landu/uploads/logo2.jpg">
+      <meta itemprop="name" content="王子臣">
+      <meta itemprop="description" content="每当你觉得“这个我知道”，你其实不知道；若有一套理论能解释一切，抛弃它；避开无意义的闲聊，远离自命不凡的人。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="风轩">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          
+            <a href="/landu/2020/12/17/python1/" class="post-title-link" itemprop="url">python1</a>
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-12-17 20:01:57 / 修改时间：20:50:12" itemprop="dateCreated datePublished" datetime="2020-12-17T20:01:57+08:00">2020-12-17</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/landu/categories/python/" itemprop="url" rel="index"><span itemprop="name">python</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <ol>
+<li><p>数据交互<br>pandas读取数据：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">input = pd.read_excel(<span class="string">"E:/File/pythonfile/NeuralNetwork/data1.xls"</span>,sheet_name=<span class="number">0</span>)</span><br><span class="line">output = pd.read_excel(<span class="string">"data1.xls"</span>,sheet_name=<span class="number">1</span>)</span><br><span class="line">x = input.iloc[:,<span class="number">0</span>]  <span class="comment">#选取特定位置数据</span></span><br></pre></td></tr></table></figure>
+<p>保存数据：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">B = pd.DataFrame(A)  <span class="comment">#数据需要先转化成pandas格式</span></span><br><span class="line">B.to_csv(<span class="string">'A.csv'</span>) <span class="comment"># B.to_excel</span></span><br></pre></td></tr></table></figure>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/landu/2020/12/17/python1/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+        
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block home" lang="zh-Hans">
     <link itemprop="mainEntityOfPage" href="https://github.com/WangZiChen1996/landu.git/2020/12/10/set-blog/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -214,7 +293,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-02-28 22:15:45" itemprop="dateModified" datetime="2020-02-28T22:15:45+08:00">2020-02-28</time>
+                <time title="修改时间：2020-12-17 20:51:09" itemprop="dateModified" datetime="2020-12-17T20:51:09+08:00">2020-12-17</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -238,7 +317,8 @@
 
       
           <ol>
-<li><p>管理员模式进入cmd<br>  hexo init blog<br>  cd blog<br>  git clone <a href="https://github.com/iissnan/hexo-theme-next">https://github.com/iissnan/hexo-theme-next</a> themes/next<br>  查看：<br>  hexo clean<br>  hexo g<br>  hexo s</p>
+<li><p>管理员模式进入cmd</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog</span><br><span class="line">cd blog</span><br><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;iissnan&#x2F;hexo-theme-next themes&#x2F;next</span><br><span class="line">查看：</span><br><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/landu/2020/12/10/set-blog/#more" rel="contents">
@@ -796,14 +876,14 @@
       <div class="site-state-item site-state-posts">
           <a href="/landu/archives/">
         
-          <span class="site-state-item-count">7</span>
+          <span class="site-state-item-count">8</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/landu/categories/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">4</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
