@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>风轩</title>
+  
+  <subtitle>子臣的个人博客</subtitle>
+  <link href="https://github.com/WangZiChen1996/landu.git/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/WangZiChen1996/landu.git/"/>
+  <updated>2021-03-20T07:14:48.621Z</updated>
+  <id>https://github.com/WangZiChen1996/landu.git/</id>
+  
+  <author>
+    <name>王子臣</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大风车</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2021/03/20/ceshi/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2021/03/20/ceshi/</id>
+    <published>2021-03-20T07:00:12.000Z</published>
+    <updated>2021-03-20T07:14:48.621Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;生化中心的夏&quot;&gt;&lt;a href=&quot;#生化中心的夏&quot; class=&quot;headerlink&quot; title=&quot;生化中心的夏&quot;&gt;&lt;/a&gt;生化中心的夏&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;xia.jpg&quot; alt=&quot;夏&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;生化中心的冬&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20210320</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2021/03/20/20210320/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2021/03/20/20210320/</id>
+    <published>2021-03-20T06:56:17.000Z</published>
+    <updated>2021-03-20T06:56:17.556Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python1</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/12/17/python1/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/12/17/python1/</id>
+    <published>2020-12-17T12:01:57.000Z</published>
+    <updated>2020-12-17T13:18:04.927Z</updated>
+    
+    
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;数据交互&lt;br&gt;pandas读取数据：&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;input = pd.read_excel(&lt;span class=&quot;string&quot;&gt;&quot;E:/File/pythonfile/NeuralNetwork/data1.xls&quot;&lt;/span&gt;,sheet_name=&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;output = pd.read_excel(&lt;span class=&quot;string&quot;&gt;&quot;data1.xls&quot;&lt;/span&gt;,sheet_name=&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;x = input.iloc[:,&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;]  &lt;span class=&quot;comment&quot;&gt;#选取特定位置数据&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;保存数据：&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;B = pd.DataFrame(A)  &lt;span class=&quot;comment&quot;&gt;#数据需要先转化成pandas格式&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;B.to_csv(&lt;span class=&quot;string&quot;&gt;&#39;A.csv&#39;&lt;/span&gt;) &lt;span class=&quot;comment&quot;&gt;# B.to_excel&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="https://github.com/WangZiChen1996/landu.git/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://github.com/WangZiChen1996/landu.git/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-next使用</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/12/10/set-blog/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/12/10/set-blog/</id>
+    <published>2020-12-10T12:22:52.281Z</published>
+    <updated>2020-12-17T12:51:09.440Z</updated>
+    
+    
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;管理员模式进入cmd&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo init blog&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;cd blog&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git clone https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;iissnan&amp;#x2F;hexo-theme-next themes&amp;#x2F;next&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;查看：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;hexo clean&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;hexo g&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;hexo s&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="博客" scheme="https://github.com/WangZiChen1996/landu.git/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随想3</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/04/01/sui-03/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/04/01/sui-03/</id>
+    <published>2020-04-01T02:38:42.000Z</published>
+    <updated>2020-04-01T03:35:37.064Z</updated>
+    
+    
+    <summary type="html">这是一篇加密文章，内容可能是个人情感宣泄或者收费技术。如果你确实想看，请与我联系。</summary>
+    
+    
+    
+    <category term="随想" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记（1）</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/03/12/li/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/03/12/li/</id>
+    <published>2020-03-12T02:56:16.000Z</published>
+    <updated>2020-03-12T03:11:32.247Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;“君子战虽有陈，而勇为本焉；丧虽有礼，而衷为本焉；士虽有学，而行为本焉。是故治本不安者，无务丰末；近亲不亲，无务来远；亲戚不附，无务外交；事无终始，无务多业；举物而暗，无务博闻。”&lt;/p&gt;
+&lt;p&gt;——《墨子·修身》&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在Hexo中引入mermaid</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/02/29/mermaid/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/02/29/mermaid/</id>
+    <published>2020-02-28T16:56:35.000Z</published>
+    <updated>2020-02-28T17:11:05.663Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在Hexo的根目录下载插件&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install -s hexo-filter-mermaid-diagrams&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;添加配置&quot;&gt;&lt;a href=&quot;#添加配置&quot; class=&quot;headerlink&quot; title=&quot;添加配置&quot;&gt;&lt;/a&gt;添加配置&lt;/h3&gt;&lt;p&gt;打开博客根目录下面的_config.yml文件，在底部插入以下代码:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mermaid: ## mermaid url https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;knsv&amp;#x2F;mermaid&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  enable: true&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  version: &amp;quot;8.0.0&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  options:  # find more api options from https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;knsv&amp;#x2F;mermaid&amp;#x2F;blob&amp;#x2F;master&amp;#x2F;src&amp;#x2F;mermaidAPI.js&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    #startOnload: true  &amp;#x2F;&amp;#x2F; default true&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Hexo" scheme="https://github.com/WangZiChen1996/landu.git/tags/Hexo/"/>
+    
+    <category term="mermaid" scheme="https://github.com/WangZiChen1996/landu.git/tags/mermaid/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>子翊</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/02/28/sui-ziyi/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/02/28/sui-ziyi/</id>
+    <published>2020-02-28T06:02:45.000Z</published>
+    <updated>2020-02-28T15:18:37.975Z</updated>
+    
+    
+    <summary type="html">这是一篇加密文章，内容可能是个人情感宣泄或者收费技术。如果你确实想看，请与我联系。</summary>
+    
+    
+    
+    <category term="随想" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>dajngo_heroku</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/02/27/dajngo_heroku/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/02/27/dajngo_heroku/</id>
+    <published>2020-02-27T10:39:53.000Z</published>
+    <updated>2020-03-03T07:05:55.024Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;一、Django&quot;&gt;&lt;a href=&quot;#一、Django&quot; class=&quot;headerlink&quot; title=&quot;一、Django&quot;&gt;&lt;/a&gt;一、Django&lt;/h2&gt;&lt;h3 id=&quot;1-下载django&quot;&gt;&lt;a href=&quot;#1-下载django&quot; class=&quot;headerlink&quot; title=&quot;1. 下载django&quot;&gt;&lt;/a&gt;1. 下载django&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pip install Django&amp;#x3D;&amp;#x3D;3.0 -i https:&amp;#x2F;&amp;#x2F;pypi.tuna.tsinghua.edu.cn&amp;#x2F;simple&amp;#x2F;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;2-新建django项目&quot;&gt;&lt;a href=&quot;#2-新建django项目&quot; class=&quot;headerlink&quot; title=&quot;2. 新建django项目&quot;&gt;&lt;/a&gt;2. 新建django项目&lt;/h3&gt;&lt;p&gt;   在pycharm中用虚拟环境建立&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;django-admin.py startproject learning_log .&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;​</summary>
+    
+    
+    
+    <category term="技术" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="博客" scheme="https://github.com/WangZiChen1996/landu.git/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Django" scheme="https://github.com/WangZiChen1996/landu.git/tags/Django/"/>
+    
+    <category term="heroku" scheme="https://github.com/WangZiChen1996/landu.git/tags/heroku/"/>
+    
+    <category term="python" scheme="https://github.com/WangZiChen1996/landu.git/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>django入门</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2020/02/27/django%E5%85%A5%E9%97%A8/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2020/02/27/django%E5%85%A5%E9%97%A8/</id>
+    <published>2020-02-27T09:21:16.000Z</published>
+    <updated>2020-12-17T13:18:06.926Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;18-1-建立项目&quot;&gt;&lt;a href=&quot;#18-1-建立项目&quot; class=&quot;headerlink&quot; title=&quot;18.1 建立项目&quot;&gt;&lt;/a&gt;18.1 建立项目&lt;/h2&gt;&lt;h3 id=&quot;18-1-1-制定规范&quot;&gt;&lt;a href=&quot;#18-1-1-制定规范&quot; class=&quot;headerlink&quot; title=&quot;18.1.1 制定规范&quot;&gt;&lt;/a&gt;18.1.1 制定规范&lt;/h3&gt;&lt;p&gt;完整的规范详细说明了项目的目标，阐述了项目的功能，并讨论了项目的外观和用户界面。 与任何良好的项目规划和商业计划书一样，规范应突出重点，帮助避免项目偏离轨道。  &lt;/p&gt;
+&lt;h3 id=&quot;18-1-2-建立虚拟环境&quot;&gt;&lt;a href=&quot;#18-1-2-建立虚拟环境&quot; class=&quot;headerlink&quot; title=&quot;18.1.2 建立虚拟环境&quot;&gt;&lt;/a&gt;18.1.2 建立虚拟环境&lt;/h3&gt;&lt;p&gt;‘’’&lt;br&gt; python -m venv ll_env  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://github.com/WangZiChen1996/landu.git/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="博客" scheme="https://github.com/WangZiChen1996/landu.git/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Django" scheme="https://github.com/WangZiChen1996/landu.git/tags/Django/"/>
+    
+  </entry>
+  
+</feed>
