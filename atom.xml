@@ -6,7 +6,7 @@
   <link href="https://github.com/WangZiChen1996/landu.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/WangZiChen1996/landu.git/"/>
-  <updated>2021-03-20T07:14:48.621Z</updated>
+  <updated>2021-04-10T11:35:18.671Z</updated>
   <id>https://github.com/WangZiChen1996/landu.git/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown教程1</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2021/04/10/20210410/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2021/04/10/20210410/</id>
+    <published>2021-04-10T11:34:48.000Z</published>
+    <updated>2021-04-10T11:35:18.671Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Markdown教程&lt;/p&gt;
+&lt;h1 id=&quot;一、-标题&quot;&gt;&lt;a href=&quot;#一、-标题&quot; class=&quot;headerlink&quot; title=&quot;一、 标题&quot;&gt;&lt;/a&gt;一、 标题&lt;/h1&gt;&lt;p&gt;使用 # 号可表示 1-6 级标题，一级标题对应一个 # 号，二级标题对应两个 # 号，以此类推。&lt;/p&gt;
+&lt;h1 id=&quot;二、-Markdown-段落格式&quot;&gt;&lt;a href=&quot;#二、-Markdown-段落格式&quot; class=&quot;headerlink&quot; title=&quot;二、 Markdown 段落格式&quot;&gt;&lt;/a&gt;二、 Markdown 段落格式&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;段落&lt;/p&gt;
+&lt;p&gt;Markdown 段落没有特殊的格式，直接编写文字就好，段落的换行是使用两个以上空格加上回车。 &lt;/p&gt;
+&lt;p&gt;当然也可以在段落后面使用一个空行来表示重新开始一个段落。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;字体&lt;br&gt;Markdown 可以使用以下几种字体：&lt;br&gt;&lt;em&gt;斜体文本&lt;/em&gt;&lt;br&gt;&lt;em&gt;斜体文本&lt;/em&gt;&lt;br&gt;&lt;strong&gt;粗体文本&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;粗体文本&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;粗斜体文本&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;粗斜体文本&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;分隔线&lt;br&gt;你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>大风车</title>
