@@ -6,7 +6,7 @@
   <link href="https://github.com/WangZiChen1996/landu.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/WangZiChen1996/landu.git/"/>
-  <updated>2021-04-10T11:35:18.671Z</updated>
+  <updated>2021-04-10T11:38:17.882Z</updated>
   <id>https://github.com/WangZiChen1996/landu.git/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Typora数学公式汇总（Markdown）</title>
+    <link href="https://github.com/WangZiChen1996/landu.git/2021/04/10/latex/"/>
+    <id>https://github.com/WangZiChen1996/landu.git/2021/04/10/latex/</id>
+    <published>2021-04-10T11:37:25.000Z</published>
+    <updated>2021-04-10T11:38:17.882Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Typora数学公式汇总（Markdown）&quot;&gt;&lt;a href=&quot;#Typora数学公式汇总（Markdown）&quot; class=&quot;headerlink&quot; title=&quot;Typora数学公式汇总（Markdown）&quot;&gt;&lt;/a&gt;Typora数学公式汇总（Markdown）&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;公式块与行内公式的添加&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;常用公式代码&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;上下标，正负无穷&lt;/li&gt;
+&lt;li&gt;加减乘，分式，根号，省略号&lt;/li&gt;
+&lt;li&gt;三角函数&lt;/li&gt;
+&lt;li&gt;矢量，累加累乘，极限&lt;/li&gt;
+&lt;li&gt;希腊字母&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;矩阵&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;简单矩阵&lt;/li&gt;
+&lt;li&gt;带左右括号的矩阵&lt;/li&gt;
+&lt;li&gt;包含希腊字母与省略号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;表格&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;简易表格&lt;/li&gt;
+&lt;li&gt;行列式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;多行等式对齐&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;方程组、条件表达式&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;间隔&lt;/strong&gt; (大小空格、紧贴)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;通过Python生成LaTeX表达式&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;公式块与行内公式的添加&quot;&gt;&lt;a href=&quot;#公式块与行内公式的添加&quot; class=&quot;headerlink&quot; title=&quot;公式块与行内公式的添加&quot;&gt;&lt;/a&gt;公式块与行内公式的添加&lt;/h2&gt;&lt;h3 id=&quot;1-公式块&quot;&gt;&lt;a href=&quot;#1-公式块&quot; class=&quot;headerlink&quot; title=&quot;1.公式块&quot;&gt;&lt;/a&gt;1.公式块&lt;/h3&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>markdown教程1</title>
